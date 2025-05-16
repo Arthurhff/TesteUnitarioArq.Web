@@ -1,17 +1,16 @@
-# 🧪 Testes Unitários e Mocking em Spring Boot
-
-### 📘 Disciplina: Aplicações de Arquitetura Web  
-### 👨‍💻 Autor: Arthur Henrique Fernandes
+#  Testes Unitários e Mocking em Spring Boot
+### Disciplina: Aplicações de Arquitetura Web  
+### Autor: Arthur Henrique Fernandes
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver testes unitários para o controlador de usuários utilizando **JUnit 5** e **Mockito**, garantindo a confiabilidade das operações REST em um projeto Spring Boot.
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Java 11+**
 - **Spring Boot** (Web, Data JPA, DevTools)
